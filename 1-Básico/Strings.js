@@ -28,6 +28,8 @@ console.log(umaString.split(' ')); // pelo espaço
 console.log(umaString.split(' ', 2)) //limitando a quantidade de vezes que isso acontece 
 console.log(umaString.split('r', 2)); 
 
+console.log(umaString.toUpperCase()); 
+console.log(umaString.toLowerCase()); 
 
 
 
